@@ -1,4 +1,4 @@
-# Contents
+# hiroyha blog
 
 ## 日本語
 
