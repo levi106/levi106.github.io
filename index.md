@@ -1,6 +1,6 @@
 # Contents
 
-## ja
+## 日本語
 
 ### Kubernetes
 
