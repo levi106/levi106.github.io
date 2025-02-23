@@ -2,15 +2,12 @@
 
 ## 日本語
 
-### Kubernetes
-
-- kind
-  - [kind のインストール](ja/k8s/kind/install.md)
-
-### Visual Studio Code
-
-- DevContainer
-  - [Podman で Dev Container を使う時のあれこれ](ja/vscode/devcontainer/podman.md)
+- Kubernetes
+  - kind
+    - [kind のインストール](ja/k8s/kind/install.md)
+- Visual Studio Code
+  - DevContainer
+    - [Podman で Dev Container を使う時のあれこれ](ja/vscode/devcontainer/podman.md)
 
 ---
 
