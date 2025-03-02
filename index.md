@@ -5,6 +5,8 @@
 - Kubernetes
   - kind
     - [kind のインストール](ja/k8s/kind/install.md)
+  - OpenShift
+    - [OpenShift Local のノードに接続したい](ja/k8s/openshift/openshiftlocal/connecttovm.md)
 - Visual Studio Code
   - DevContainer
     - [Podman で Dev Container を使う時のあれこれ](ja/vscode/devcontainer/podman.md)
